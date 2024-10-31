@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\mobilne - galach\\galeria zdj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D610E-9431-41D9-9256-00114F650D21}|galeria zdj\\galeria zdj.csproj|f:\\mobilne - galach\\galeria zdj\\galeria zdj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C72D610E-9431-41D9-9256-00114F650D21}|galeria zdj\\galeria zdj.csproj|solutionrelative:galeria zdj\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D610E-9431-41D9-9256-00114F650D21}|galeria zdj\\galeria zdj.csproj|f:\\mobilne - galach\\galeria zdj\\galeria zdj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D610E-9431-41D9-9256-00114F650D21}|galeria zdj\\galeria zdj.csproj|solutionrelative:galeria zdj\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\mobilne - galach\\galeria zdj\\galeria zdj\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "galeria zdj\\MainWindow.xaml",
+              "ToolTip": "F:\\mobilne - galach\\galeria zdj\\galeria zdj\\MainWindow.xaml*",
+              "RelativeToolTip": "galeria zdj\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T08:48:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\mobilne - galach\\galeria zdj\\galeria zdj\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "galeria zdj\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\mobilne - galach\\galeria zdj\\galeria zdj\\MainWindow.xaml.cs",
+              "RelativeToolTip": "galeria zdj\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:48:12.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

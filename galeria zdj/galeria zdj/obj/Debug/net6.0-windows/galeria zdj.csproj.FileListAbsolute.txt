@@ -1,0 +1,20 @@
+F:\mobilne - galach\galeria zdj\galeria zdj\bin\Debug\net6.0-windows\galeria zdj.exe
+F:\mobilne - galach\galeria zdj\galeria zdj\bin\Debug\net6.0-windows\galeria zdj.deps.json
+F:\mobilne - galach\galeria zdj\galeria zdj\bin\Debug\net6.0-windows\galeria zdj.runtimeconfig.json
+F:\mobilne - galach\galeria zdj\galeria zdj\bin\Debug\net6.0-windows\galeria zdj.dll
+F:\mobilne - galach\galeria zdj\galeria zdj\bin\Debug\net6.0-windows\galeria zdj.pdb
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\App.g.cs
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj_MarkupCompile.cache
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj_MarkupCompile.lref
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\MainWindow.baml
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.g.resources
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.GeneratedMSBuildEditorConfig.editorconfig
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.AssemblyInfoInputs.cache
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.AssemblyInfo.cs
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.csproj.CoreCompileInputs.cache
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.dll
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\refint\galeria zdj.dll
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.pdb
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\galeria zdj.genruntimeconfig.cache
+F:\mobilne - galach\galeria zdj\galeria zdj\obj\Debug\net6.0-windows\ref\galeria zdj.dll
